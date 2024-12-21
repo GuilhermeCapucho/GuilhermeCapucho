@@ -2,7 +2,7 @@
 # Hi 👋 I am Guilherme! 
 I am a Software Developer at [Botdoc](https://botdoc.io/), where I'm honing my skills in developing innovative solutions with modern technologies. I'm passionate about coding, learning new tools, and turning challenges into opportunities to grow as a developer.
 
-- <img height="14" src="https://static-00.iconduck.com/assets.00/linkedin-original-icon-512x512-myo6evy9.png"> Visit my [LinkedIn](https://www.linkedin.com/in/guilherme-capucho/) more information.
+- <img height="14" src="https://static-00.iconduck.com/assets.00/linkedin-original-icon-512x512-myo6evy9.png"> Visit my [LinkedIn](https://www.linkedin.com/in/guilherme-capucho/) for more information.
 
 ---
 
