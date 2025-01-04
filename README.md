@@ -48,6 +48,7 @@ I am a Software Developer at [Botdoc](https://botdoc.io/), where I'm honing my s
 
 <code><img height="21" src="https://static-00.iconduck.com/assets.00/file-type-sql-icon-365x512-90gjy9r4.png"></code>
 <code><img height="25" src="https://static-00.iconduck.com/assets.00/mysql-original-wordmark-icon-512x266-a48lsirx.png"></code>
+<code><img height="25" src="https://static-00.iconduck.com/assets.00/mysql-original-wordmark-icon-512x266-a48lsirx.png"></code>
 <code><img height="20" src="https://icon.icepanel.io/Technology/png-shadow-512/SQLite.png"></code>
 
 ---
