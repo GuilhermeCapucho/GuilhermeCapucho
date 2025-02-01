@@ -8,7 +8,7 @@ I am a Software Developer at [Botdoc](https://botdoc.io/), where I'm honing my s
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeCapucho&show_icons=true&theme=dark" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCapucho&hide_progress=true&theme=dark" width="358" height="167">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCapucho&hide_progress=true&theme=dark" width="435" height="168">
 </p>
 
 **Backend:**
