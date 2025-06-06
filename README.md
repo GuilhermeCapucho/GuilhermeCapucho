@@ -1,5 +1,6 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
 
-# Hi 👋 I am Guilherme! 
+# Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> I am Guilherme! 
 I am a Software Developer at [Botdoc](https://botdoc.io/), where I'm honing my skills in developing innovative solutions with modern technologies. I'm passionate about coding, learning new tools, and turning challenges into opportunities to grow as a developer.
 
 - <img height="14" src="https://static-00.iconduck.com/assets.00/linkedin-original-icon-512x512-myo6evy9.png"> Visit my [LinkedIn](https://www.linkedin.com/in/guilherme-capucho/) for more information.
@@ -67,3 +68,11 @@ I am a Software Developer at [Botdoc](https://botdoc.io/), where I'm honing my s
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/larialbu/larialbu/output/github-contribution-grid-snake-dark.svg">
   <img height="220" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/larialbu/larialbu/output/github-contribution-grid-snake.svg">
 </picture>
+
+<div align="center">
+  <br><p align="center"><b>Number of visitors</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GuilhermeCapucho}/count.svg" /></p> 
+  <br>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=footer"/>
